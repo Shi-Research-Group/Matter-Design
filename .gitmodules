@@ -1,0 +1,3 @@
+[submodule "mofography"]
+	path = mofography
+	url = https://github.com/arung-northwestern/mofography.git
